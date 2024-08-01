@@ -1,6 +1,6 @@
 # Calculator
 
-A simple, yet functional calculator built using HTML, CSS, and JavaScript. This project aims to provide a basic understanding of how a calculator works and demonstrates the integration of these three essential web technologies.
+A functional calculator built using HTML, CSS, and JavaScript. This project aims to provide a basic understanding of how a calculator works and demonstrates the integration of these three essential web technologies.
 
 ## Features
 
@@ -18,4 +18,4 @@ A simple, yet functional calculator built using HTML, CSS, and JavaScript. This 
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/kavyanjani123/calculator
